@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+
+<html lang="fr">
+
+<head> <link rel="stylesheet" href="style.css">
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Ma Passion</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<h1>Bienvenue sur mon site !</h1>
+
+<p>Je vais vous parler de ma passion pour le cours de SNT</p>
+
+<img src="SNT : un nouvel enseignement en seconde | Lycée Alcide d'Orbigny" alt="Image du ciel étoilé">
+
+<p>Pour en savoir plus, <a href="Programmes et ressources en sciences numériques et technologie - voie GT | éduscol | Ministère de l'Éducation Nationale, de l'Enseignement supérieur et de la Recherche | Dgesco" target="_blank">clique ici</a>.</p>
+
+</body>
+
+</html>
+
+Fichier style.css
+
+body {
+
+background-color: #f0f0f0;
+
+font-family: Arial, sans-serif;
+
+text-align: center;
+
+}
+
+h1 {
+
+color: blue;
+
+}
+
+p {
+
+color: darkgray;
+
+font-size: 18px;
+
+}
+
+img {
+
+width: 300px;
+
+border-radius: 10px;
+
+}
